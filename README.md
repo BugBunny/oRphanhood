@@ -16,9 +16,10 @@ By selecting the set of stable populations that Timaeus (1992) adopted to produc
 The script can also be used to calculate a set of multipliers for converting the proportions of mothers or fathers surviving to measures of life table surviviorship or vice versa in a population with known characteristics (in particular, the age-pattern of fertility).
 
 
+[![DOI](https://zenodo.org/badge/372783504.svg)](https://zenodo.org/badge/latestdoi/372783504)
+
+
 #### References
 Timaeus, I. M.  Estimation of adult mortality from paternal orphanhood: a reassessment and a new approach. *Population Bulletin of the United Nations*, 1992, **33**, 47–63. <https://blogs.lshtm.ac.uk/iantimaeus/files/2012/04/Timaeus-Pop-Bulletin-UN-Orphanhood-Paper.pdf>
 
 Timaeus, I. M.  ‘Indirect estimation of adult mortality from orphanhood’, in *Tools for Demographic Estimation*, T. A. Moultrie, R. E. Dorrington, A. G. Hill, K. Hill, I. M. Timaeus and B. Zaba (eds). International Union for the Scientific Study of Population, pp. 222–243, 2013. <https://demographicestimation.iussp.org/content/orphanhood>
-
-[![DOI](https://zenodo.org/badge/372783504.svg)](https://zenodo.org/badge/latestdoi/372783504
