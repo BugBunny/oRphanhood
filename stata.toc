@@ -1,0 +1,4 @@
+v 1
+d Ian Timaeus, London School of Hygiene & Tropical Medicine
+p devilish Apply conventional and enhanced Own-Children Method to IPUMS dataset
+p devilishfig1 Plot absentee children over age of mother by age of child

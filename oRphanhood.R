@@ -30,7 +30,7 @@
 # 1 June, 2021
 
 # Parameters ------------------------------------------------------------------
-sex <- 1 # Mothers = 1; Fathers = 2
+sex <- 2 # Mothers = 1; Fathers = 2
 # If one2one is TRUE, the scripts will calculate a single set of 'tailor-made'
 # multipliers for converting proportions surviving to life table survivorship
 # in a population with the specified characteristics
