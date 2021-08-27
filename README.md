@@ -25,4 +25,4 @@ Timæus, I. M. Estimation of adult mortality from paternal orphanhood: a reasses
 
 Timæus, I. M. ‘Indirect estimation of adult mortality from orphanhood’, in *Tools for Demographic Estimation*, T. A. Moultrie, R. E. Dorrington, A. G. Hill, K. Hill, I. M. Timæus and B. Zaba (eds). International Union for the Scientific Study of Population, pp. 222–243, 2013. <https://demographicestimation.iussp.org/content/orphanhood>
 
-Timæus, I. M. The Own-Children Method of fertility estimation - the devil is in the detail, 2021, unpublished manuscript.
+Timæus, I. M. The Own-Children Method of fertility estimation - the devil is in the detail. *Demographic Research*, 2021, forthcoming.
